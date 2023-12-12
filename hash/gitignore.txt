@@ -1,0 +1,2 @@
+/home/egor22ptv2/Lab4/*.md
+
